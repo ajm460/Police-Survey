@@ -1,2 +1,2 @@
 # Police-Survey
-# This is just a test, but at some point my data will be stored here, along with the code I use to analyze it.  I could also  keep the full survey instruments here, I imagine.  Or...could I?  Unclear how this handles non-text
+# This is just a test, but at some point the code I use to analyze my data will be stored here.  My personal website (www.andrewjmccall.com) will hold the data, and the survey instruments, and the code can all sit here. 
